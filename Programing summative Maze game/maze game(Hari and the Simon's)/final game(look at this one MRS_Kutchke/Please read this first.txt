@@ -1,0 +1,9 @@
+The game is almost complete.
+When i get the components from Simon i will be able to make it look like the person is moving and we will be adding more 
+levels. An intro screen will also be added and will provide adequate instructions on how to play the game properly. 
+I could not fully complete because the images i needed had a white background in it and i need Simon to convert it into a
+ png without a backgroung. It will be complete for the gand reveal to the g5. 
+
+Adding more levels will be easy, i can reuse the code, just will have to rearrange the lables in the maze. 
+As per adding moving annimations, i have done it once before on the school computers, but i could not do it thins one becasue 
+i do not have the right images. 
